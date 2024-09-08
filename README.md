@@ -1,2 +1,7 @@
 # Gomoku
-Gomoku is a free and interesting game.
+五子棋是一种两人对弈的纯策略型棋类游戏。双方分别使用黑白两色的棋子，下在棋盘直线与横线的交叉点上，先形成五子连珠者获胜。
+https://f-y77.github.io/Gomoku/
+
+快捷键
+ESC 暂停
+F11 全屏
